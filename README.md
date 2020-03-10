@@ -1,1 +1,1 @@
-lsed
+# Laboratorium statystycznej eksploracji danych
